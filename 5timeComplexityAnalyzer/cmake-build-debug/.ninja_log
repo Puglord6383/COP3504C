@@ -1,0 +1,8 @@
+# ninja log v6
+4	231	7497643421851485	build.ninja	d9d00686c4740bf5
+2	762	7497643422071482	CMakeFiles/5timeComplexityAnalyzer.dir/analyzer.cpp.obj	f7ecc224cd12d67b
+763	945	7497643429690691	5timeComplexityAnalyzer.exe	2bc74b04918b160f
+4	670	7497644627196276	CMakeFiles/5timeComplexityAnalyzer.dir/analyzer.cpp.obj	f7ecc224cd12d67b
+670	748	7497644633860557	5timeComplexityAnalyzer.exe	2bc74b04918b160f
+4	695	7497648353574208	CMakeFiles/5timeComplexityAnalyzer.dir/analyzer.cpp.obj	f7ecc224cd12d67b
+696	781	7497648360500015	5timeComplexityAnalyzer.exe	2bc74b04918b160f
